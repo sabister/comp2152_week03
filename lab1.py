@@ -1,5 +1,6 @@
 ##Sample coding questions 01 week 01
-## Sabannah De-Gale
+## Sgit add lab02.py
+abannah De-Gale
 array = {1,4,7,9}
 
 a=1
