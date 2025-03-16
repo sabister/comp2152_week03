@@ -1,4 +1,4 @@
-import sqlite3
+.dbimport sqlite3
 from contextlib import closing
 
 try:
